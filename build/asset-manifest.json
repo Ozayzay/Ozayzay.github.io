@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/ozayzay.github.io/static/css/main.7dec165a.css",
-    "main.js": "/ozayzay.github.io/static/js/main.72c1da53.js",
-    "static/js/415.fb51c11d.chunk.js": "/ozayzay.github.io/static/js/415.fb51c11d.chunk.js",
-    "static/js/787.35dd0f9c.chunk.js": "/ozayzay.github.io/static/js/787.35dd0f9c.chunk.js",
-    "static/media/leaf.png": "/ozayzay.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/ozayzay.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/ozayzay.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/ozayzay.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/2024 fall Resume.pdf": "/ozayzay.github.io/static/media/2024 fall Resume.6a5e00f87528e6306906.pdf",
-    "static/media/blog.png": "/ozayzay.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/ozayzay.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/ozayzay.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/ozayzay.github.io/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/ozayzay.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/ozayzay.github.io/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/ozayzay.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/ozayzay.github.io/index.html",
-    "main.7dec165a.css.map": "/ozayzay.github.io/static/css/main.7dec165a.css.map",
-    "main.72c1da53.js.map": "/ozayzay.github.io/static/js/main.72c1da53.js.map",
-    "415.fb51c11d.chunk.js.map": "/ozayzay.github.io/static/js/415.fb51c11d.chunk.js.map",
-    "787.35dd0f9c.chunk.js.map": "/ozayzay.github.io/static/js/787.35dd0f9c.chunk.js.map"
+    "main.css": "/Ozayzay.github.io/static/css/main.5fb2314c.css",
+    "main.js": "/Ozayzay.github.io/static/js/main.c7214541.js",
+    "static/js/415.fb51c11d.chunk.js": "/Ozayzay.github.io/static/js/415.fb51c11d.chunk.js",
+    "static/js/787.35dd0f9c.chunk.js": "/Ozayzay.github.io/static/js/787.35dd0f9c.chunk.js",
+    "static/media/leaf.png": "/Ozayzay.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Ozayzay.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Ozayzay.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Ozayzay.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/2024 fall Resume.pdf": "/Ozayzay.github.io/static/media/2024 fall Resume.6a5e00f87528e6306906.pdf",
+    "static/media/blog.png": "/Ozayzay.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Ozayzay.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Ozayzay.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/Ozayzay.github.io/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/Ozayzay.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Ozayzay.github.io/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Ozayzay.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Ozayzay.github.io/index.html",
+    "main.5fb2314c.css.map": "/Ozayzay.github.io/static/css/main.5fb2314c.css.map",
+    "main.c7214541.js.map": "/Ozayzay.github.io/static/js/main.c7214541.js.map",
+    "415.fb51c11d.chunk.js.map": "/Ozayzay.github.io/static/js/415.fb51c11d.chunk.js.map",
+    "787.35dd0f9c.chunk.js.map": "/Ozayzay.github.io/static/js/787.35dd0f9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dec165a.css",
-    "static/js/main.72c1da53.js"
+    "static/css/main.5fb2314c.css",
+    "static/js/main.c7214541.js"
   ]
 }
